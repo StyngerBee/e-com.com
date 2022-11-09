@@ -14,7 +14,8 @@
 ## Usage 
     Just pull down the repo and use npm start to begin after running npm run seed and adding the schema to your database.
 
-    
+[<img src='./e-com.mkv'>]
+
 ### Testing
     To test it, you can input the api's into insomnia or postman and try each for yourself.
 ## Installation
